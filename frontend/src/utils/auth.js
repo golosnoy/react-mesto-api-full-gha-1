@@ -22,6 +22,7 @@ class Auth {
     })
     .then(this.checkRes);
   }
+  
 
   authorization(data) {
     return fetch(`${this._host}/signin`, {
