@@ -1,0 +1,8 @@
+.cards__element {
+    list-style-type: none;
+    width: 282px;
+    height: 361.5px;
+    border-radius: 10px;
+    overflow: hidden;
+    position: relative;
+}

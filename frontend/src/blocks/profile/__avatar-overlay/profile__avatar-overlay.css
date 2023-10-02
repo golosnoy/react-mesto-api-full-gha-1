@@ -1,0 +1,12 @@
+.profile__avatar-overlay {
+  position: relative;
+  width: 120px;
+  height: 120px;
+  left: 0px;
+  top: -124px;
+  background: rgba(0, 0, 0, 0.8);
+  background-image: url("../../../images/Vector.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  opacity: 0;
+}

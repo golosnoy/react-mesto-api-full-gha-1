@@ -1,0 +1,13 @@
+.popup__reg {
+  width: 430px;
+    background-color:rgb(255, 255, 255, 1.0);
+    box-shadow: 0px 0px 25px rgba(0, 0, 0, 0.15);
+    border-radius: 10px;
+    text-align: center;
+}
+
+@media screen and (max-width: 630px) {
+  .popup__reg {
+          width: 282px;
+      }
+}

@@ -1,0 +1,11 @@
+.auth__image-title {
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    margin-top: 10px;
+    margin-block-end: 0;
+    text-align: left;
+    margin-bottom: 16px;
+    align-self: flex-start;
+}
+

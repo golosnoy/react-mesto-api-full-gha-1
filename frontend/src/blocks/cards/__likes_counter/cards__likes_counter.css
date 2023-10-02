@@ -1,0 +1,14 @@
+.cards__likes_counter {
+width: 10px;
+height: 13px;
+margin-block-start: 0;
+margin-block-end: 0;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 16px;
+text-align: center;
+margin-left: 6px;
+color: #000000;
+}

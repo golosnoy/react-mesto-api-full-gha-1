@@ -1,0 +1,4 @@
+.cards__likes_block {
+  display: flex;
+  flex-direction: column;
+}
