@@ -1,0 +1,4 @@
+.header__user-block {
+    display: flex;
+    flex-direction: row;
+}
